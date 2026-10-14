@@ -79,6 +79,6 @@ Netflix-SQL-Analysis/
 ```
 ---
 
-## 👤 Author
+## 🤵🏼 Author
 **Jatin Naresh Dolas**  
 🔗 [LinkedIn](https://www.linkedin.com/in/jatin-dolas) | 💻 [GitHub](https://github.com/JatinD18)
