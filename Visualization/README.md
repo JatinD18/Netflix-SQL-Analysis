@@ -4,14 +4,14 @@
 
 To translate these SQL findings into actionable business intelligence, I built an interactive dashboard. 
 
-![Netflix Dashboard](visualizations/netflix_powerbi_dashboard.png)
+![Netflix Dashboard](https://github.com/JatinD18/Netflix-SQL-Analysis/blob/main/Visualization/netflix_powerbi_dashboard.png)
 
 ### Key Business Insights Uncovered:
 1. **The Originals Shift:** Netflix's library shows a massive pivot from licensing Movies to producing original TV Shows starting around 2016, maximizing subscriber retention through binge-able content.
 2. **The Genre Matrix:** While *Drama* and *Comedy* dominate in sheer volume, *Documentaries* consistently punch above their weight, offering the highest average IMDB scores relative to production volume.
 3. **The Runtime Sweet Spot:** Movies categorized in the "Standard (101-120 min)" bracket yield the highest audience satisfaction (IMDB scores), suggesting this is the optimal target length for future Netflix Original film investments.
 
-📥 [Download the Interactive PDF Report](visualizations/Netflix_Dashboard_Export.pdf)
+📥 [Download the Interactive PDF Report](https://github.com/JatinD18/Netflix-SQL-Analysis/blob/main/netflix_powerbi_dashboard.pdf)
 
 ## 📊 Exploratory Data Analysis & Business Insights
 
