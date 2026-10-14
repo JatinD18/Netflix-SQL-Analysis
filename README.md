@@ -31,4 +31,4 @@ and global production trends.
 3. Execute all sections top-to-bottom
 
 ## Author
-Jatin Naresh Dolas — [Jatin Dolas - Linkedin](linkedin.com/in/jatin-dolas) - [Jatin Dolas - GitHub](github.com/JatinD18)
+Jatin Naresh Dolas — [Jatin Dolas - Linkedin](https://www.linkedin.com/in/jatin-dolas) - [Jatin Dolas - GitHub](https://github.com/JatinD18)
