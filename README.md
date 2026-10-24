@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 🎬 Netflix Content Strategy Analysis — SQL & Power BI Portfolio Project
 
 ## 📌 Overview
@@ -10,6 +12,8 @@ This project demonstrates the full data analytics pipeline: from **wrangling mes
 - **Data Wrangling:** Python (Pandas, SQLAlchemy, Regex for CSV parsing)
 - **Visualization:** Power BI (DAX, Calculated Columns, Conditional Formatting)
 - **Dataset:** [Netflix TV Shows and Movies (Kaggle)](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies)
+
+</div>
 
 ---
 
