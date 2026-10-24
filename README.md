@@ -10,7 +10,8 @@ This project demonstrates the full data analytics pipeline: from **wrangling mes
 ## 🛠️ Tools & Technologies Used
 **Database:** ![MySQL 8.0](https://img.shields.io/badge/MySQL-8.0%2B-blue?logo=mysql&logoColor=white)
 
-**Data Wrangling:** Python (Pandas, SQLAlchemy, Regex for CSV parsing)
+**Data Wrangling:** ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Data-Pandas-150458?logo=pandas&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/Data-SQLAlchemy%2B-blue?logo=python&logoColor=hotpink&logoWidth=40), ![Regex for CSV parsing](![Pandas](https://img.shields.io/badge/Data-Regex-150458?logo=python&logoColor=hotpink))
+
 **Visualization:** Power BI (DAX, Calculated Columns, Conditional Formatting)
 
 **Dataset (Netflix TV Shows and Movies):** [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies)
