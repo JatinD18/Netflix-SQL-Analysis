@@ -8,10 +8,10 @@ End-to-end data analysis of **5,850+ Netflix titles** and **77,800+ cast/crew cr
 This project demonstrates the full data analytics pipeline: from **wrangling messy raw data with Python**, to **advanced analytical querying in MySQL**, and finally **visual storytelling in Power BI**.
 
 ## 🛠️ Tools & Technologies Used
-- **Database:** MySQL 8.0
-- **Data Wrangling:** Python (Pandas, SQLAlchemy, Regex for CSV parsing)
-- **Visualization:** Power BI (DAX, Calculated Columns, Conditional Formatting)
-- **Dataset:** [Netflix TV Shows and Movies (Kaggle)](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies)
+**Database:** ![MySQL 8.0](https://img.shields.io/badge/MySQL-8.0%2B-blue?logo=mysql&logoColor=white)
+**Data Wrangling:** Python (Pandas, SQLAlchemy, Regex for CSV parsing)
+**Visualization:** Power BI (DAX, Calculated Columns, Conditional Formatting)
+**Dataset (Netflix TV Shows and Movies):** [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies)
 
 </div>
 
